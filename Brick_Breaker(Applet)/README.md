@@ -7,6 +7,6 @@ Welcoming Screen
 
 In game snap
 
-![In game snap](https://github.com/Kashyap-Nirmal/Java-practice/blob/main/Brick_Breaker(Applet)/Snap_1.png)
+![In game snap](https://github.com/Kashyap-Nirmal/Java-practice/blob/main/Brick_Breaker(Applet)/Snap_2.png)
 
 Created: 10-October-2017
