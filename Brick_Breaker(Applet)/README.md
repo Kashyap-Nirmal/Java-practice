@@ -3,10 +3,10 @@ Simple Java applet based game. Here the score, level, #hits are displayed. Addit
 
 Welcoming Screen
 
-![Welcoming Screen](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/Java/Brick_Breaker(Applet)/Snap_1.png)
+![Welcoming Screen](https://github.com/Kashyap-Nirmal/Java-practice/blob/main/Brick_Breaker(Applet)/Snap_1.png)
 
 In game snap
 
-![In game snap](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/Java/Brick_Breaker(Applet)/Snap_2.png)
+![In game snap](https://github.com/Kashyap-Nirmal/Java-practice/blob/main/Brick_Breaker(Applet)/Snap_1.png)
 
 Created: 10-October-2017
