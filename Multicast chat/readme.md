@@ -4,7 +4,7 @@ Snapshots
 
 Snap 1: Writing my name letter by letter from different clients.
 
-![Snap 1](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/Java/Multicast%20chat/Screenshot%20(1338).png)
+![Snap 1](https://github.com/Kashyap-Nirmal/Java-Practice/blob/main/Multicast%20chat/Screenshot%20(1338).png)
 
 Snap 2: 
 
@@ -22,6 +22,6 @@ User 1: Message1,
  
  User 4: Message8
 
-![Snap 2](https://github.com/Kashyap-Nirmal/Practice_Modules/blob/master/Java/Multicast%20chat/Screenshot%20(1339).png)
+![Snap 2](https://github.com/Kashyap-Nirmal/Java-Practice/blob/main/Multicast%20chat/Screenshot%20(1339).png)
 
 Created: 20-February-2021
