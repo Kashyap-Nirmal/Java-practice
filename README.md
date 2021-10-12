@@ -19,4 +19,4 @@
 
 ## Note
 - Some things added in the README.md file may be borrowed from some other repositories. 
-- If any reference is missing for the above two `Credit to the rightful owner.`
+- `Credit to the rightful owner.`
